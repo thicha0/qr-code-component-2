@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/thicha0/qr-code-component)
-- Live Site URL: [Netlify](https://qr-code-component-thicha.netlify.app/)
+- Solution URL: [Github](https://github.com/thicha0/qr-code-component-2)
+- Live Site URL: [Netlify](https://qr-code-component-2-thicha.netlify.app/)
 
 ## My process
 
@@ -30,23 +30,28 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS
+- Flexbox
 
 ### What I learned
+
+This is my second solution for this challenge.
+See my first solution [here](https://github.com/thicha0/qr-code-component)
 
 TODO:
 - Learned about all different types of measurements (rem, em, vh, vw, %, etc.)
 - clamp ?
 
 tips:
-- don't use height: 100vh => min-height: 100vh + min-height: 100dvh
+- don't use height: 100vh => min-height: 100vh + min-height: 100dvh ✅
 - box-sizing: border-box;
-- landmarks
+- landmarks ✅
 
 - 8-point grid: https://spec.fm/specifics/8-pt-grid => consistency of design
 
 feedback:
-- use h1 for accessibility
-- flexbox: dont use margin, gap ??
+- use h1 for accessibility ✅
+- flexbox: dont use margin, gap ✅ ??
+https://coryrylan.com/blog/how-to-center-in-css-with-flexbox
 
 ## Author
 
