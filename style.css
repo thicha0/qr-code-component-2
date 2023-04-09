@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    min-height: 100dvh;
+    box-sizing: border-box;
+}
+
+.qr-code-card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin: auto;
+    max-width: 500px;
+    padding: 17px;
+    position: relative;
+    width: 100%;
+    max-width: 290px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.qr-code-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 15px;
+    margin-bottom: 18px;
+}
+
+.qr-code-text {
+    font-family: 'Outfit', 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: center;
+    padding: 0 5px;
+}
+
+.qr-code-title {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 23px;
+    margin-bottom: 7px;
+}
+
+.qr-code-subtitle {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 16px;
+}
