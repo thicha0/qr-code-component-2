@@ -40,18 +40,12 @@ See my first solution [here](https://github.com/thicha0/qr-code-component)
 TODO:
 - Learned about all different types of measurements (rem, em, vh, vw, %, etc.)
 - clamp ?
-
-tips:
-- don't use height: 100vh => min-height: 100vh + min-height: 100dvh ✅
-- box-sizing: border-box;
-- landmarks ✅
-
 - 8-point grid: https://spec.fm/specifics/8-pt-grid => consistency of design
 
-feedback:
-- use h1 for accessibility ✅
-- flexbox: dont use margin, gap ✅ ??
-https://coryrylan.com/blog/how-to-center-in-css-with-flexbox
+tips:
+- Use and utily of landmarks in HTML
+- Use h1 for accessibility
+- Gap property in flexbox
 
 ## Author
 
